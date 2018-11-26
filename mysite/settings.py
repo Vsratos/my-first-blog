@@ -25,7 +25,7 @@ SECRET_KEY = '(ksps+t_3fau%t85ax_!kj4%2fgfm9o*cb6ctr0gi(_fh=i_n3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','OEM.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','OEM.pythonanywhere.com',''vsratos.pythonanywhere.com']
 
 
 # Application definition
